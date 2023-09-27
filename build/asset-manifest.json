@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactproject/static/css/main.6980e637.css",
+    "main.js": "/reactproject/static/js/main.20226a42.js",
+    "static/js/787.a2bf511c.chunk.js": "/reactproject/static/js/787.a2bf511c.chunk.js",
+    "static/media/banner.png": "/reactproject/static/media/banner.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/reactproject/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/project-img1.png": "/reactproject/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/project-img2.png": "/reactproject/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/reactproject/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/contact-img.svg": "/reactproject/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/reactproject/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/reactproject/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/reactproject/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/reactproject/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/reactproject/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/reactproject/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "index.html": "/reactproject/index.html",
+    "main.6980e637.css.map": "/reactproject/static/css/main.6980e637.css.map",
+    "main.20226a42.js.map": "/reactproject/static/js/main.20226a42.js.map",
+    "787.a2bf511c.chunk.js.map": "/reactproject/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6980e637.css",
+    "static/js/main.20226a42.js"
+  ]
+}
